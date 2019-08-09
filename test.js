@@ -9,6 +9,15 @@ eqfeed_callback({
 			"properties": {
 				"prop0": "value0"
 			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.0, 0.2]
+			},
+			"properties": {
+				"prop": "value"
+			}
 		}, {
 			"type": "Feature",
 			"geometry": {
