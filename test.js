@@ -12,6 +12,6 @@ eqfeed_callback(
         "prop0": "value0"
       }
     },
-	{"type":"Feature","geometry":{"type":"point","coordinates":[32.642926,-97.092968]},"properties":{"name":"Customer"}}
+	{"type":"Feature","geometry":{"type":"Point","coordinates":[32.642926,-97.092968]},"properties":{"name":"Customer"}}
   ]
 })
