@@ -18,6 +18,15 @@ eqfeed_callback({
 			"properties": {
 				"prop": "value"
 			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [32.64, -97.09]
+			},
+			"properties": {
+				"prop": "value"
+			}
 		}, {
 			"type": "Feature",
 			"geometry": {
